@@ -1,0 +1,27 @@
+.personal {
+    width: 100%;
+    height: 190px;
+    background-size: cover;
+    background-position: center;
+}
+
+.jumbotron {
+    height: 464px;
+    padding-bottom: 20px;
+    background-image: url("https://d2mkcg26uvg1cz.cloudfront.net/wp-content/uploads/Covid-Banner-BackGround.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 0px;
+}
+
+.main {
+    background-color: #e9ebee;
+    padding-top: 32px;
+}
+
+.personalbuscar {
+    width: 100%;
+    height: 145px;
+    background-size: cover;
+    background-position: center;
+}
